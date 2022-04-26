@@ -27,6 +27,7 @@ There are several goals to this project:
 
 # Code 
 Provide the code to your own public repo.
+* Use the language of your choice.
 * Code must be runnable - Document how to **build/run the code**.
 * Output: 
   * Runnable local API that answers the questions above.
