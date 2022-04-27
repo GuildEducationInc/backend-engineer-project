@@ -7,7 +7,7 @@ The goal of this project is to get an idea of:
   * Assume you would have to present this to a technical team. 
   
 Time effort: 
-  * 1 day ish
+  * 4-6 hours
 
 # Source data
 * The data used for this project will be The Movies Dataset (pulled from https://www.kaggle.com/rounakbanik/the-movies-dataset).
