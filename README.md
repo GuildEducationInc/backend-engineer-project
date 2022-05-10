@@ -18,9 +18,11 @@ There are several goals to this project:
 1) Design a data model and include an ERD diagram (included relationships).
 1) Implement an API that answers the following questions:
    * Production Company Details:
+     * *The endpoint should be able to take a production_id as a query param and a year as a query param*
      * budget per year
      * revenue per year
    * Movie Genre Details:
+     * *The endpoint should be able to take a year as a query param*
      * most popular genre by year
 1) Be prepared to discuss how you would implement this in a production environment.
    * How would you handle errors?
